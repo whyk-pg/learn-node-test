@@ -1,10 +1,12 @@
-# Learn Repo Template
+# Learn `node:test`
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+JavaScript Primerの編集作業にあたって、Mochaを`node:test`に置き換える作業の検証を行ないたいため
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+無事にJavaScript Primerの編集作業を終える
 
 ## 参考資料
-- 特になし
+- [ユニットテストを記述する · JavaScript Primer #jsprimer](https://jsprimer.net/use-case/nodecli/refactor-and-unittest/)
+- [Mocha - the fun, simple, flexible JavaScript test framework](https://mochajs.org)
+- [Test runner | Node.js v20.11.1 Documentation](https://nodejs.org/docs/latest-v20.x/api/test.html)
