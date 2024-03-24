@@ -1,11 +1,15 @@
 {
   "name": "learn-node-test",
   "private": true,
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fmt": "biome check --apply-unsafe ."
   },
   "devDependencies": {
     "@biomejs/biome": "^1.6.2"
+  },
+  "dependencies": {
+    "commander": "9.0"
   }
 }
