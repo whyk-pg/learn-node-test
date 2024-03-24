@@ -6,6 +6,17 @@ JavaScript Primerの編集作業にあたって、Mochaを`node:test`に置き�
 ## 本リポジトリの達成目標
 無事にJavaScript Primerの編集作業を終える
 
+## 実行コマンド
+### GFMなしMarkdown→HTML
+``` bash
+$ node main.js sample.md
+```
+
+### GFMありMarkdown→HTML
+``` bash
+$ node main.js --gfm sample.md
+```
+
 ## 参考資料
 - [ユニットテストを記述する · JavaScript Primer #jsprimer](https://jsprimer.net/use-case/nodecli/refactor-and-unittest/)
 - [Mocha - the fun, simple, flexible JavaScript test framework](https://mochajs.org)
