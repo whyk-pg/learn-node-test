@@ -17,6 +17,11 @@ $ node main.js sample.md
 $ node main.js --gfm sample.md
 ```
 
+### テスト実行
+``` bash
+$ npm test
+```
+
 ## 参考資料
 - [ユニットテストを記述する · JavaScript Primer #jsprimer](https://jsprimer.net/use-case/nodecli/refactor-and-unittest/)
 - [Mocha - the fun, simple, flexible JavaScript test framework](https://mochajs.org)
